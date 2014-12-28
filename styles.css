@@ -1,0 +1,28 @@
+.tblCalc{
+    border: 6px outset dodgerblue;
+    background-image: url(xx.jpg);
+    border-radius: 7px;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    text-align: center;
+}
+.tblCalc input{
+    border: 5px outset #1a3dc1;
+    border-radius: 9px;
+    background-color: lightskyblue;
+    color: darkblue;
+    width: 40px;
+    margin: 10px;
+    font-family: 'Times New Roman';
+    font-size:16px;
+    font-weight: 800;
+}
+#btnWide{
+    width: 120px;
+}
+#editWide{
+    width: auto;
+    font-style: normal;
+
+}
